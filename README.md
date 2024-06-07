@@ -9,15 +9,15 @@ MERN Stack Developer
 - 💬 Ask me about Tech
 - 📫 How to reach me :
 <br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/manikandan-ak0812/)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](<a href="mailto:manikandanalagesan08@gmail.com"><a/>)
+
 - 😄 Pronouns: Techie
 
 
 
 ### I code in
    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />  <img width="48" height="48" src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwindcss"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/><img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/fluency/48/000000/handlebar-mustache.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/null/graphql.png"/>
-
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>  <img width="50" height="50" src="https://img.icons8.com/nolan/64/express-js.png" alt="express-js"/>  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> 
+ <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 
 
 
