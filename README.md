@@ -9,6 +9,7 @@ MERN Stack Developer
 - 💬 Ask me about Tech
 - 📫 How to reach me :
 <br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/manikandan-ak0812/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](<a href="mailto:manikandanalagesan08@gmail.com"><a/>)
 - 😄 Pronouns: Techie
 
 
