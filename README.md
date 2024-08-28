@@ -6,7 +6,7 @@ MERN Stack Developer
 - 🌱 I’m currently learning MERN
 
 - 🤔 I’m looking for help with Placements 
-- 💬 Ask me about Tech
+
 - 📫 How to reach me :
 <br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/manikandan-ak0812/)
 
@@ -23,11 +23,11 @@ MERN Stack Developer
 
 
 
-![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=manikandan-ak0812&theme=dark&show_icons=true&&hide=issues,contribs)
+![Manikandan GitHub stats](https://github-readme-stats.vercel.app/api?username=manikandan-ak0812&theme=dark&show_icons=true&&hide=issues,contribs)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Manikandan0812?ext=contest&theme=dark)](https://leetcode.com/Manikandan0812)
 
-[![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manikandan-ak0812&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Manikandan github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manikandan-ak0812&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
   
