@@ -8,7 +8,7 @@ MERN Stack Developer
 - 🤔 I’m looking for help with Placements 
 
 - 📫 How to reach me :
-<br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/manikandan-ak0812/)
+<br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/manikandan-ak/)
 
 - 😄 Pronouns: Techie
 
@@ -23,11 +23,11 @@ MERN Stack Developer
 
 
 
-![Manikandan GitHub stats](https://github-readme-stats.vercel.app/api?username=manikandan-ak0812&theme=dark&show_icons=true&&hide=issues,contribs)
+![Manikandan GitHub stats](https://github-readme-stats.vercel.app/api?username=manikandan-a-k&theme=dark&show_icons=true&&hide=issues,contribs)
 
 
 
-[![Manikandan github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manikandan-ak0812&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Manikandan github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manikandan-a-l&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
   
